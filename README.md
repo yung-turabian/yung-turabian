@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ewhenry
-- 👀 I’m interested in labor politics and machine learning.
-- 🌱 I’m currently learning node.js, scipy, and Java.
-- 💞️ I’m looking to collaborate on a cross-division use of computer science with the burgeoning labor movement in America.
+- 👋 Hi, I’m @tsarsalesman
+- 👀 I’m interested in politics and software development.
+- 🌱 I’m currently learning Rust and Node.
 - 📫 hw9692@bard.edu
+- henrywandover.com
 
 <!---
 ewhenry/ewhenry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
