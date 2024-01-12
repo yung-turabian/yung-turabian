@@ -2,7 +2,6 @@
 - 👀 I’m interested in politics and software development.
 - 🌱 I’m currently learning Rust and Node.
 - 📫 hw9692@bard.edu
-- henrywandover.com
 
 <!---
 ewhenry/ewhenry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
