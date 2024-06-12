@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tsarsalesman
+- 👋 Hi, I’m @yung-turabian
 - 👀 I’m interested in politics and software development.
-- 🌱 I’m currently learning Rust and Node.
+- 🌱 I’m currently learning C++, OpenGl (ES) and how to balance reality.
 - 📫 hw9692@bard.edu
 
 <!---
