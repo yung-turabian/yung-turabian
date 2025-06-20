@@ -1,4 +1,4 @@
-Graduate of Bard College; current unemployed programmer.
+Graduate of Bard College; current unemployed programmer. Know C pretty well but forever indoctrinated by the functional paradigm.
 
 <!---
 ewhenry/ewhenry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
